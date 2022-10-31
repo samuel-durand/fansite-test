@@ -1,0 +1,69 @@
+ body {
+    margin: 0%;
+    padding: 0%;
+  }
+
+
+  .header {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    padding: 5px;
+    text-align: left;
+    background-color: #00A8E8;
+}
+
+
+
+.actualité {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    border: 5px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color:  #007EA7;
+}
+
+.réalisations {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    border: 5px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: #FFFFFF;
+    font-size: 40px;
+    background-color:  #003459;
+}
+
+.événements {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    border: 5px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: #ffffff;
+    background-color:  #00171F;
+}
+
+.photos {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    border: 5px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: #000000;
+    background-color:  #FFFFFF;
+}
+
